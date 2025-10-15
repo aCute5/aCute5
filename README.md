@@ -1,6 +1,6 @@
 <h1> Hey there! I'm Dario 👋 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=js,gatsby,react,figma,bootstrap,tailwind,visualstudio,vscode,atom,laravel,selenium,eclipse,vue,python,php,illustrator,photoshop,premiere,unreal,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,gatsby,react,figma,bootstrap,tailwind,visualstudio,vscode,atom,laravel,selenium,eclipse,vue,python,php,illustrator,photoshop,premiere,unreal,unity,react)](https://skillicons.dev)
 <h2> A Passionate Frontend Developer From Italy  🇮🇹 </h2>
 <h3> 👨🏻‍💻 About Me </h3>
 <h4> I'm an Adobe Entusiastic and i wanna learn a lot of programms</h4>
